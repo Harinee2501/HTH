@@ -1,4 +1,4 @@
-# HTH (Hear The Heart) - Video Processing & Multi-Language Transcript System
+# @Lang- Video Processing & Multi-Language Transcript System
 
 ## 📖 Project Overview
 
