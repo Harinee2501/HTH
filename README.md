@@ -1,6 +1,5 @@
 # @Lang - AI-Powered Localization Tool
 
-![@Lang Logo](https://via.placeholder.com/150) <!-- Replace with actual logo -->
 
 @Lang is an AI-driven localization solution that transforms global video content by providing culturally adapted subtitles, voiceovers, and interactive learning features. Our tool goes beyond literal translation to deliver emotionally intelligent, context-aware localization that resonates with local audiences.
 
